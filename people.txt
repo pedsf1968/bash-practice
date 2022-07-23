@@ -1,0 +1,9 @@
+N LN FN BD
+-------------------------
+0 KIM Yong-Sun 19910221
+1 KIM Tae-Yeon 19890309
+2 LEE Ji-Eun 19930516
+3 HWANG Ye-Ji 20000526
+4 KIM Da-Hyun 19980528
+5 SEO Joo-Hyun 19910628
+-------------------------
