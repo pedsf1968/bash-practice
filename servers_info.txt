@@ -1,0 +1,4 @@
+OS type,OS version,Architecture Type,CPU
+Ubuntu,"22.04",x86_64,Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+Ubuntu,"22.04",x86_64,Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+Fedora,36,x86_64,Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
